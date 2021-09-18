@@ -1,0 +1,33 @@
+
+
+form{
+    color: #00A0BE;
+}
+
+button{
+    background: linear-gradient(to right, #4285f4 0%, #53dbd2 100%);
+
+}
+ 
+#imagenn {
+    
+   height: 150px;
+   width: 180px;
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+    margin-top: 100px;
+}
+
+h1 {
+    text-align: center;
+    color: #00A0BE;
+}
+
+input{
+  font-size: 20px;
+  line-height: 50px;
+  width: 100px;
+  height: 50px;
+  
+}
